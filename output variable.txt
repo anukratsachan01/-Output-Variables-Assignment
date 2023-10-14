@@ -1,0 +1,71 @@
+﻿Question
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    cout<<"Physics"<<endl;
+    cout<<"Wallah"<<endl;
+}
+
+
+
+
+Question
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int a= 4;
+    int b=2;
+    int c;
+    c=a+b;
+    cout<<c;
+}
+
+
+
+
+Question
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int x;
+    cout<<sizeof x <<endl;
+    bool y;
+    cout<<sizeof y <<endl;
+    float z;
+    cout<<sizeof z <<endl;
+}
+   
+
+
+Question
+int main(){
+    int a=4;
+    int b=5;
+    a++;b--;
+    cout<<++a<<" "<<b--;
+}
+output = 6 4
+
+
+
+
+Question
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    float radius = 10;
+    float area;
+    area = 2*3.14*radius;
+    cout<<area;
+}
+
+
+
+
+Question
+How many of these can be a variable name?
+No
+Yes
+No
+Yes
+No
